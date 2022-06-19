@@ -6,7 +6,7 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Infection and Immunity
 
 # Organizations/Affiliations to show in About widget
 organizations:
