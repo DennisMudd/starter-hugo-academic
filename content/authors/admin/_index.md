@@ -31,7 +31,7 @@ education:
     - course: BS in Physics
       institution: Harvey Mudd College
       year: 2022
-    - course: BS in Mathematical & Computational Biology
+    - course: BS in Mathematical/Computational Biology
       institution: Harvey Mudd College
       year: 2022
 
