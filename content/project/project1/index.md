@@ -19,7 +19,7 @@ links:
     name: Follow
     url: https://twitter.com/DennisW59999939
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/1WaXj9UhkVKqRiRIX0BQ-Aa8PEX2_8upR/view?usp=sharing'
+url_poster: 'https://drive.google.com/file/d/1WaXj9UhkVKqRiRIX0BQ-Aa8PEX2_8upR/view?usp=sharing'
 url_slides: ''
 url_video: ''
 
