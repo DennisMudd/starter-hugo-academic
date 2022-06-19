@@ -19,7 +19,7 @@ links:
     name: Follow
     url: https://twitter.com/DennisW59999939
 url_code: ''
-url_pdf: 'https://drive.google.com/drive/u/0/folders/1_4q6j6Gf2IiF25zpmR0RpmvYub8aGD6u'
+url_pdf: 'https://drive.google.com/file/d/1WaXj9UhkVKqRiRIX0BQ-Aa8PEX2_8upR/view?usp=sharing'
 url_slides: ''
 url_video: ''
 
@@ -48,7 +48,7 @@ differentially enriched across the non-human primate cohorts. Collectively,
 our data illustrate that CD4+ T cells are required for protection against Mtb
 reinfection, and cytotoxicity rather than cytokine secretion is in control of Mtb.
 
-## Key findings - T cell correlates of immunologic control in Mtb-infected tissues:
+## Some key findings:
 
 GEP1 (FURIN T Cells) has gene signatures associated with T17 (IL18RAP, IL23R, IL2RA) and dysfunctional T cell responses (LAG3, ENTPD1, TIGIT, CTLA4) [3]. Enriched usage of GEP1 is correlated with high bacterial burden. This suggests that T17-like cellular activities and dysfunctional or exhausted T cells correlates with Mtb progression.
 GEP2 (TEMRA Cells) has gene signatures associated with vascular cytotoxic T cells (CX3CR1, KLF3, GZMH, S1PR5) [4].

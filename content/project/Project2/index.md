@@ -1,15 +1,16 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: The transcriptional control of sRNA DsrA in Enterobacteriaceae
+summary: DsrA is not transcribed in all Enterobacteriaceae in cold stress.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Microbiology
+  - Synthetic Biology
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Normalized luminescence by E. coli and E. cloacae dsrAp-luxCDABE-transformants. 
   focal_point: Smart
 
 links:
@@ -27,15 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+To survive under suboptimal circumstances such as osmotic shift, nutrient starvation, oxidative stress, and extreme temperature, bacteria must respond by adjusting many pathways, which may include activating the repair mechanisms and rewiring metabolic networks. Such general stress response is regulated by the alternative sigma factor RpoS in Enterobacteriaceae. RpoS is regulated at three levels – transcription, translation, post-translation – to respond to stressors efficiently (Hamdallah et al. 2018). During translation, some small RNAs (sRNA) upregulates RpoS by binding to the 5’ untranslated region (UTR) of the rpoS mRNA to open the ribosome binding site (RBS). One sRNA, DsrA, is induced and upregulates RpoS in cold stress in E. coli. In this study, we hypothesized that the DsrA promoter (DsrAp) in some Enterobacteriaceae are not activated in cold stress as some of these species do not have RpoS expressed in cold stress and their DsrAp region differ significantly from that in Escherichia coli. To test this hypothesis, we built dsrAp-luxCDABE reporter constructs in E. coli and Enterobacter cloacae. By measuring luminescence emitted from both E. coli and E. cloacae dsrAp-luxCDABE transformants at 15 °C and 37 °C at 30-minute intervals for 3 hours, we observed that the average luminescence from each E. cloacae transformant cell decreases over time while it increases in the E. coli transformant. It suggests that the E. cloacae DsrAp is not activated at 15 °C. This provides future directions to study the role of DsrA in other Enterobacteriaceae such as Samonella enterica, Citrobacter rodentium, Klebsiella pneumoniae and Serratia marcenscens.  
