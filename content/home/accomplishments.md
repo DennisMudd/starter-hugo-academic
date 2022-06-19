@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: ''
-    date_end: ''
+    date_end: '2019-08-10'
     date_start: '2019-06-03'
     description: '~$6500 for summer research at JAX'
     organization: The Jackson Laboratory
@@ -50,6 +50,14 @@ item:
     title: Valedictorian
     url: ''
 
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2017-11-03'
+    description: ''
+    organization: iGEM
+    organization_url: https://igem.org
+    title: Bronze Medal
+    url: ''
 design:
   columns: '2'
 ---
