@@ -64,8 +64,11 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
+# Can put this all the way in the back
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'Dennis.Wang@wyss.harvard.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -77,4 +80,4 @@ Among the many exciting fields, he is now fascinated with the field of immunolog
 
  Outside the lab, he is a gym rat who also loves eating sweet high-calorie foods. He eats salad, but that mainly just provides him excuses to consume more food. He is talented of finding nap time in the day because he needs to sleep a lot. A major goal that he has not achieved yet is to have a husky to be as quirky as himself.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
