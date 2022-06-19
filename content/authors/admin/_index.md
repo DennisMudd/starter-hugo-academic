@@ -6,7 +6,7 @@ title: Qianchang (Dennis) Wang
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Infection and Immunity
+role: PhD Student in Infection & Immunity
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,10 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Infection and Immunity (In Progress)
+    - course: PhD in Infection & Immunity (in progress)
       institution: University of Cambridge
       year: 2026
-    - course: B.S. in Physics, Mathematical and Computational Biology
+    - course: BS in Physics
+      institution: Harvey Mudd College
+      year: 2022
+    - course: BS in Mathematical & Computational Biology
       institution: Harvey Mudd College
       year: 2022
 
