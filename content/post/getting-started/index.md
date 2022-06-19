@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Under construction
+subtitle: In progress...
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: In progress...
 
 # Link this post with a project
 projects: []
@@ -30,7 +30,6 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic

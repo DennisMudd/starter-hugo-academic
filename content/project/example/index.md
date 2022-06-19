@@ -19,7 +19,7 @@ links:
     name: Follow
     url: https://twitter.com/DennisW59999939
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://drive.google.com/drive/u/0/folders/1_4q6j6Gf2IiF25zpmR0RpmvYub8aGD6u'
 url_slides: ''
 url_video: ''
 
@@ -30,7 +30,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Abstract:
+## Abstract:
 
 Mycobacterium tuberculosis (Mtb) and Mtb coinfections remain one of the
 leading causes of death due to infectious disease worldwide, causing ~1.5
@@ -48,13 +48,14 @@ differentially enriched across the non-human primate cohorts. Collectively,
 our data illustrate that CD4+ T cells are required for protection against Mtb
 reinfection, and cytotoxicity rather than cytokine secretion is in control of Mtb.
 
-Key findings - T cell correlates of immunologic control in Mtb-infected tissues:
+## Key findings - T cell correlates of immunologic control in Mtb-infected tissues:
 
 GEP1 (FURIN T Cells) has gene signatures associated with T17 (IL18RAP, IL23R, IL2RA) and dysfunctional T cell responses (LAG3, ENTPD1, TIGIT, CTLA4) [3]. Enriched usage of GEP1 is correlated with high bacterial burden. This suggests that T17-like cellular activities and dysfunctional or exhausted T cells correlates with Mtb progression.
 GEP2 (TEMRA Cells) has gene signatures associated with vascular cytotoxic T cells (CX3CR1, KLF3, GZMH, S1PR5) [4].
 Enriched usage of GEP2 is correlated with low bacterial burden. This suggests that the effector and memory CD8+ T cells help control Mtb, with CD4+ T cells potentially serve as a modulator. The correlational analyses from GEP1 and GEP2 suggest that CD4+ T cells are critical in modulating CD8+ T cell responses during reinfection, potentially helping the effector memory cells to recall responses from previous infections. 
 
 
+## Reference:
 
 1. World Health Organization. (2013). Global tuberculosis report 2013. World
 Health Organization.
