@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qianchang (Dennis) Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,30 +10,27 @@ role: PhD Student in Infection and Immunity
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge
+    url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include systems immunology and synthetic biology, with a focus on host-pathogen interactions and therapeutics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Immunology & Therapeutics
+  - Systems & Synthetic Biology
+  - Host-pathogen Interactions
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Infection and Immunity (In Progress)
+      institution: University of Cambridge
+      year: 2026
+    - course: B.S. in Physics, Mathematical and Computational Biology
+      institution: Harvey Mudd College
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
