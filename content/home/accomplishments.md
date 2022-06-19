@@ -25,13 +25,30 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
+    date_start: '2019-06-03'
+    description: '~$6500 for summer research at JAX'
     organization: The Jackson Laboratory
     organization_url: https://www.jax.org
     title: Summer Student Program (SSP) Fellowship
     url: ''
 
+  - certificate_url: ''
+    date_end: '2022-05-15'
+    date_start: '2018-09-01'
+    description: '$10000/yr'
+    organization: Harvey Mudd College
+    organization_url: https://www.hmc.edu
+    title: Harvey S. Mudd Merit Scholarship
+    url: ''
+
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2018-05-31'
+    description: ''
+    organization: Avon Old Farms School
+    organization_url: https://www.avonoldfarms.com
+    title: Valedictorian
+    url: ''
 
 design:
   columns: '2'
