@@ -34,7 +34,7 @@ experience:
   - title: Undergraduate Researcher
     company: Shalek Lab, Massachusetts Institute of Technology
     company_url: 'https://shaleklab.com/'
-    company_logo: MIT_logo
+    company_logo: MIT
     location: Cambridge, MA
     date_start: '2021-05-15'
     date_end: '2022-05-01'
@@ -76,6 +76,24 @@ experience:
         * RNA preparation
         * Software development
         * Data analysis
+
+  - title: iGEM Team Member
+    company: Weiss Lab, Massachusetts Institute of Technology
+    company_url: 'https://web.mit.edu/'
+    company_logo: MIT
+    location: Cambridge, MA
+    date_start: '2017-01-10'
+    date_end: '2017-11-07'
+    description: Worked in a team of 12 to design a CRISPR-dCas13a system to control alternative splicing. Responsible for building a computational model in predicting effective gRNA sequences.
+
+  - title: High School Intern
+    company: Li Lab, UC Berkeley
+    company_url: 'http://nanomechanics.berkeley.edu/'
+    company_logo: UCB
+    location: Berkeley, CA
+    date_start: '2016-07-01'
+    date_end: '2017-08-20'
+    description: Computationally built a perforated conical frustum with CNT material for separating sodium and chloride ions.
 
 design:
   columns: '2'
