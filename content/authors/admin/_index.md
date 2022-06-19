@@ -7,11 +7,11 @@ title: Qianchang Wang (Dennis)
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Infection & Immunity
+role: PhD Student (Probationary) in Infection & Immunity
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cambridge
+  - name: Department of Medicine, University of Cambridge
     url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,7 +68,7 @@ social:
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'Dennis.Wang@wyss.harvard.edu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -78,6 +78,6 @@ Qianchang/Dennis is a PhD student at the Cambridge Institute of Therapeutic Immu
 
 Among the many exciting fields, he is now fascinated with the field of immunology with its highly complex nature. He was first exposed to the field of immunology in Dr. Jacques Banchereau's Lab at JAX. During his time at Harvey Mudd, he was also intrigued by physics and Taoism. You can sometimes find him reading Tao Te Ching and some random physics writings.
 
- Outside the lab, he is a gym rat who also loves eating sweet high-calorie foods. He eats salad, but that mainly just provides him excuses to consume more food. He is talented of finding nap time in the day because he needs to sleep a lot. A major goal that he has not achieved yet is to have a husky to be as quirky as himself.
+Outside the lab, he is a gym rat who also loves eating sweet high-calorie foods. He eats salad, but that mainly just provides him excuses to consume more food. He is talented of finding nap time in the day because he needs to sleep a lot. A major goal that he has not achieved yet is to have a husky to be as quirky as himself.
 
 
