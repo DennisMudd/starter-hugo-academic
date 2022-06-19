@@ -71,9 +71,9 @@ email: ''
 highlight_name: true
 ---
 
-Qianchang/Dennis is a PhD student at the Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID). Previously, he has worked on synthetic biology, microbiology and immunology projects at MIT, the Jackson Laboratory (JAX), Harvey Mudd, and the Wyss Institute at Harvard Medical School. He aspires to work eventually at the intersection of systems immunology and synthetic biology to develop novel therapeutics.
+Qianchang/Dennis is a PhD student at the Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID). Previously, he has worked on synthetic biology, microbiology and immunology projects at MIT, the Jackson Laboratory (JAX), Harvey Mudd, and Harvard Medical School. He aspires to work eventually at the intersection of systems immunology and synthetic biology to develop novel therapeutics.
 
-Among the many exciting fields, he is now fascinated with the field of immunology with its highly complexnature. He was first exposed to the field of immunology in Dr. Jacques Banchereau's Lab at JAX. During his time at Harvey Mudd, he was also intrigued by physics and Taoism. You can sometimes find him reading Tao Te Ching and some random physics writings.
+Among the many exciting fields, he is now fascinated with the field of immunology with its highly complex nature. He was first exposed to the field of immunology in Dr. Jacques Banchereau's Lab at JAX. During his time at Harvey Mudd, he was also intrigued by physics and Taoism. You can sometimes find him reading Tao Te Ching and some random physics writings.
 
  Outside the lab, he is a gym rat who also loves eating sweet high-calorie foods. He eats salad, but that mainly just provides him excuses to consume more food. He is talented of finding nap time in the day because he needs to sleep a lot. A major goal that he has not achieved yet is to have a husky to be as quirky as himself.
 
