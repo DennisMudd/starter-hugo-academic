@@ -1,17 +1,17 @@
 ---
-title: CRISPR-dCas13a for controlling alternative splicing
-summary: A computational model to predict gRNA sequences for exon exclusion
+title: Detect novel differentially expressed isoforms
+summary: Combine PacBio long-read and RNA-seq to discover novel immune isoforms
 tags:
   - Computational Biology
   - Systems Biology
   - Immunology
-date: '2022-04-27T00:00:00Z'
+date: '2019-09-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Predict the effective gRNA sequences. 
+  caption: A demonstration - isoform switching in breast cancer cell lines. 
   focal_point: Smart
 
 links:
@@ -20,8 +20,7 @@ links:
     name: Follow
     url: https://twitter.com/DennisW59999939
 url_code: ''
-url_poster: 'https://drive.google.com/file/d/14crHfMoF9O8ugnY78ITUrRDJZ4tUOmQV/view?usp=sharing'
-url_website: 'https://2017.igem.org/Team:MIT'
+url_poster: 'https://drive.google.com/file/d/1ao6ur_Twf_GI7rRwof_UCk6m6__3ZS1A/view?usp=sharing'
 url_slides: ''
 url_video: ''
 
@@ -33,4 +32,4 @@ url_video: ''
 slides: ""
 ---
 
-Alternative splicing is the eukaryotic mechanism that selects which exons will be included in processed mRNA. It increases the diversity of the human proteome by allowing more than one protein isoform to be produced from the same gene. The inclusion or exclusion of particular exons is regulated by splicing factors which bind to specific motifs in the pre-mRNA. Our project aims to control alternative splicing by using the RNA-binding proteins dCas13a and Ms2 to interfere with these splicing factors’ binding, allowing us to control which exons are included in the final processed mRNA. By choosing between different protein isoforms, this control method may allow synthetic genes to dynamically change functionality. It also has therapeutic potential for diseases that arise from aberrant splicing, including an aggressive form of breast cancer where one splice variant produces a nonfunctional tumor suppressor, contributing to tumor formation. My work focuses on building a simple computational model that predicts the effective gRNA sequences to target introns that we desire to bind and cause exon skipping. The model considers four factors - GC Content, secondary structure, off-target mismatches and RBP competitions. 
+Aging influences the immune system in various ways, including alternative splicing which determines the protein isoforms that are expressed and their respective functions. Therefore, through splicing, the elderly’s immune systems can significantly differ from the younger groups. These dissimilarities suggest that the elderly may require alternative medical treatments, including vaccines. To elucidate aging’s impact on the human immune system and potentially provide insight into improving vaccines, we obtain donor peripheral blood mononuclear cells (PBMC) samples from elderly recipients of one of the two recommended pneumococcal vaccines - 23-valent pneumococcal polysaccharide vaccine (PPSV23) and 13-valent pneumococcal conjugate vaccine (PCV-13), which differ in composition and elicited host immune responses. Then the samples are sequenced by both targeted and non-targeted long read SMRTBell sequencing (LR-seq) from Pacific Biosciences along with RNA-seq. The targeted LR-seq provides an in-depth analysis of the isoform repertoire for selected genes. The deep short reads sequencing of RNA-seq quantitates these transcripts. The data is analyzed to find differentially expressed isoforms between responder and non-responder elderly subjects and between elderly and young subjects who have been previously sequenced. Some genes, such as CD37, are found to display patterns of isoform switch between group 4 and 5. The highly expressed genes are also analyzed for their metabolic pathway involvement. Three pathways are confirmed by both RNA-seq and LR-seq data - endocytosis, focal adhesion, and regulation of actin cytoskeleton.

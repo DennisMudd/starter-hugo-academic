@@ -4,7 +4,7 @@ summary: A computational model to predict gRNA sequences for exon exclusion
 tags:
   - Computational Biology
   - Synthetic Biology
-date: '2022-04-27T00:00:00Z'
+date: '2017-11-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
