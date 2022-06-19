@@ -27,8 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Immunology
+      tag: Immunology
+    - name: Synthetic Biology
+      tag: Synthetic Biology
+    - name: Systems Biology
+      tag: Systems Biology
+    - name: Computational Biology
+      tag: Computational Biology
     - name: Other
       tag: Demo
 

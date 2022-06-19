@@ -1,5 +1,5 @@
 ---
-title: The role of CD4+ T cells in controlling *Mtb* progression
+title: The role of CD4+ T cells in controlling Mycobacterium tuberculosis progression
 summary: Immune correlates in *Mtb* progression
 tags:
   - Immunology
