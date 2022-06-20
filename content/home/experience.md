@@ -34,7 +34,7 @@ experience:
   - title: Undergraduate Researcher
     company: Shalek Lab, Massachusetts Institute of Technology
     company_url: 'https://shaleklab.com/'
-    company_logo: MIT
+    company_logo: MIT-Logo
     location: Cambridge, MA
     date_start: '2021-05-15'
     date_end: '2022-05-01'
