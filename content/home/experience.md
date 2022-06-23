@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Summer Intern
-    company: Wyss Institute for Biologically Inspired Engineering
+    company: Collins Lab, Wyss Institute for Biologically Inspired Engineering
     company_url: 'https://wyss.harvard.edu/'
     company_logo: wyss
     location: Cambridge, MA
