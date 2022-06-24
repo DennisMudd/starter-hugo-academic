@@ -43,7 +43,7 @@ categories:
 
 My first official encounter with Taoism can be traced back to 2018, when I just graduated from high school. Before then, I had little knowledge of Taoism - Tai-Chi was the most notable form of practice, and I had heard of mixed comments. During that summer before college, with the "try-it-myself" experimentalist mindset, I went out all the way to the Wudang Mountains (武当山) - where Taoism prospered for thousands of years - to figure it out for myself. There, I learned and practiced Tai-chi (三十六式 & 八段锦), standing post (Zhàn zhuāng 站桩), and meditation (打坐). 
 
-{{< figure src="https://github.com/DennisMudd/starter-hugo-academic/blob/main/images/e149_3.png" title="Where I practiced Tai-Chi on the Wudang Mountain" >}}
+{{< figure src="https://raw.githubusercontent.com/DennisMudd/starter-hugo-academic/main/images/WechatIMG210.jpeg" title="Where I practiced Tai-Chi on the Wudang Mountain" >}}
 
 ## My current explorations
 
