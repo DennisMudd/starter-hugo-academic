@@ -49,12 +49,22 @@ Then my college life began at Harvey Mudd in Claremont, CA. With the college's l
 
 ## My current explorations
 
+I am currently reading Tao Te Ching (道德经). It has guided me through some difficult times in the past couple of years with its ancient wisdom. My favorite book on Tao Te Ching is edited by Prof. Guying Chen (陳鼓應), in which he compiled all major interpretations throughout the Chinese history and added some of his own comments. I am sure I will read this book many times throughout my life - I learned something new every time I revisited the book. 
+
+Aside from Tao Te Ching, as a beginner, I have several Taoist writings on my reading list: 
+1. Hangdi Sijing 《黄帝四经》
+2. Zhuangzi 《庄子》
+3. I Ching 《易经》 - may not be regarded by all as a Taoist piece, but certainly interests me a lot
+
+
+{{< figure src="https://raw.githubusercontent.com/DennisMudd/starter-hugo-academic/main/images/e149_3.png" title="Parity violation measurement - from APS" >}}
+
 ## Some of my favourite quotes
 1. 
 2. 
 3. 
 
-{{< figure src="https://raw.githubusercontent.com/DennisMudd/starter-hugo-academic/main/images/e149_3.png" title="Parity violation measurement - from APS" >}}
+
 
 
 
