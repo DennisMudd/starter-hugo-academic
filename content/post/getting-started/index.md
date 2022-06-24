@@ -1,9 +1,9 @@
 ---
-title: Under construction
-subtitle: In progress...
+title: The profoundly fascinating Taoist philsophy.
+subtitle: My naïve exploration of Taoism - the intriguing ideology that has gradually influenced me in my life.
 
 # Summary for listings and search engines
-summary: In progress...
+summary: The striking similarities in Taoist teachings and modern science.
 
 # Link this post with a project
 projects: []
@@ -32,12 +32,12 @@ authors:
   - admin
 
 tags:
-  - Academic
-  - 开源
+  - Taoism
+  - Physics
 
 categories:
-  - Demo
-  - 教程
+  - Science
+  - Life
 ---
 
 ## Overview
