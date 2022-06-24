@@ -56,6 +56,8 @@ categories:
 2. [Zhuangzi 《庄子》](https://en.wikipedia.org/wiki/Zhuangzi_(book))
 3. [I Ching 《易经》](https://en.wikipedia.org/wiki/I_Ching) - may not be regarded by all as a Taoist piece, but certainly interests me a lot
 
+{{< figure src="https://raw.githubusercontent.com/DennisMudd/starter-hugo-academic/main/images/Tao%20Te%20Ching%20boshu.jpeg" title="Silk Manuscript of Tao Te Ching from [Mawangdui 马王堆](https://en.wikipedia.org/wiki/Mawangdui) in 1973" >}}
+
 
 ## Some of my favourite quotes
         There are already a lot of comparisons between the eastern mysticism and modern sciences. Among them, the most famous is probably [Fritjof Capra](https://www.fritjofcapra.net/)'s [The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism](https://www.amazon.com/Tao-Physics-Exploration-Parallels-Mysticism/dp/1590308352). My personal experience has limited my interpretation of Tao Te Ching and other Taoist writings. Below are just some of my favourite quotes from Tao Te Ching. Some has fascinating connections with physics - for instance, with the parity violation measurement, which won the [Nobel Prize in physics](https://www.nobelprize.org/prizes/physics/1957/summary/) by [Tsung-Dao Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) and [Chen Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) in 1957. I continue to be astonished by these ancient wisdom every time I read these lines.
