@@ -41,7 +41,7 @@ categories:
 
 ## My encounter with Taoism and Physics
 
-         My first official encounter with Taoism can be traced back to 2018, when I just graduated from high school. Before then, I had little knowledge of Taoism - Tai-Chi was the most notable form of practice, but I had heard of mixed comments. During that summer before college, with the "try-it-myself" experimentalist mindset, I went out all the way to the Wudang Mountains (武当山) - where Taoism prospered for thousands of years - to figure it out for myself. There, I learned and practiced Tai-chi (三十六式 & 八段锦), standing post (Zhàn zhuāng 站桩), and meditation (打坐). 
+         My first official encounter with Taoism can be traced back to 2018, when I just graduated from high school. Before then, I had little knowledge of Taoism - Tai-Chi was the most notable form of practice, but I had heard of mixed comments. During that summer before college, with the "try-it-myself" experimentalist mindset, I went out all the way to the [Wudang Mountains (武当山)](https://en.wikipedia.org/wiki/Wudang_Mountains) - where Taoism prospered for thousands of years - to figure it out for myself. There, I learned and practiced Tai-chi (三十六式 & [八段锦](https://en.wikipedia.org/wiki/Baduanjin_qigong)), standing post ([Zhàn zhuāng 站桩](https://en.wikipedia.org/wiki/Zhan_zhuang)), and meditation (打坐). 
 
 {{< figure src="https://raw.githubusercontent.com/DennisMudd/starter-hugo-academic/main/images/WechatIMG210.jpeg" title="Where I practiced Tai-Chi on the Wudang Mountain" >}}
 
@@ -49,12 +49,12 @@ categories:
 
 ## My current explorations
 
-        I am currently reading Tao Te Ching (道德经). It has guided me through some difficult times in the past couple of years with its ancient wisdom. My favorite book on Tao Te Ching is edited by Prof. Guying Chen (陳鼓應), in which he compiled all major interpretations throughout the Chinese history and added some of his own comments. I am sure I will read this book many times throughout my life - I learned something new every time I revisited the book. 
+        I am currently reading Tao Te Ching (道德经). It has guided me through some difficult times in the past couple of years with its ancient wisdom. My favorite book on Tao Te Ching is edited by Prof. Guying Chen ([陳鼓應](https://zh.wikipedia.org/zh-cn/%E9%99%B3%E9%BC%93%E6%87%89)), in which he compiled all major interpretations throughout the Chinese history and added some of his own comments. I am sure I will read this book many times throughout my life - I learned something new every time I revisited the book. 
 
         Aside from Tao Te Ching, as a beginner, I have several Taoist writings on my reading list: 
-1. Hangdi Sijing 《黄帝四经》
-2. Zhuangzi 《庄子》
-3. I Ching 《易经》 - may not be regarded by all as a Taoist piece, but certainly interests me a lot
+1. [Hangdi Sijing 《黄帝四经》](https://en.wikipedia.org/wiki/Huangdi_Sijing)
+2. [Zhuangzi 《庄子》](https://en.wikipedia.org/wiki/Zhuangzi_(book))
+3. [I Ching 《易经》](https://en.wikipedia.org/wiki/I_Ching) - may not be regarded by all as a Taoist piece, but certainly interests me a lot
 
 
 ## Some of my favourite quotes
