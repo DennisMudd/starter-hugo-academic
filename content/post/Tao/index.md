@@ -49,7 +49,7 @@ categories:
 
 ## My current explorations
 
-        I am currently reading Tao Te Ching (道德经). It has guided me through some difficult times in the past couple of years with its ancient wisdom. My favorite book on Tao Te Ching is edited by Prof. Guying Chen ([陳鼓應](https://zh.wikipedia.org/zh-cn/%E9%99%B3%E9%BC%93%E6%87%89)), in which he compiled all major interpretations throughout the Chinese history and added some of his own comments. I am sure I will read this book many times throughout my life - I learned something new every time I revisited the book. 
+        I am currently reading Tao Te Ching ([道德经](https://en.wikipedia.org/wiki/Tao_Te_Ching)). It has guided me through some difficult times in the past couple of years with its ancient wisdom. My favorite book on Tao Te Ching is edited by Prof. Guying Chen ([陳鼓應](https://zh.wikipedia.org/zh-cn/%E9%99%B3%E9%BC%93%E6%87%89)), in which he compiled all major interpretations throughout the Chinese history and added some of his own comments. I am sure I will read this book many times throughout my life - I learned something new every time I revisited the book. 
 
         Aside from Tao Te Ching, as a beginner, I have several Taoist writings on my reading list: 
 1. [Hangdi Sijing 《黄帝四经》](https://en.wikipedia.org/wiki/Huangdi_Sijing)
@@ -58,7 +58,7 @@ categories:
 
 
 ## Some of my favourite quotes
-        There are already a lot of comparisons between the eastern mysticism and modern sciences. Among them, the most famous is probably [Fritjof Capra](https://www.fritjofcapra.net/)'s [The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism](https://www.amazon.com/Tao-Physics-Exploration-Parallels-Mysticism/dp/1590308352). My personal experience has limited my interpretation of Tao Te Ching and other Taoist writings. Below are just some of my favourite quotes from Tao Te Ching. Some has fascinating connections with physics - for instance, with the parity veiolation measurement, which won the Nobel Prize in physics by T. D. Lee and C. N. Yang in 1957. I continue to be astonished by these ancient wisdom every time I read these lines.
+        There are already a lot of comparisons between the eastern mysticism and modern sciences. Among them, the most famous is probably [Fritjof Capra](https://www.fritjofcapra.net/)'s [The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism](https://www.amazon.com/Tao-Physics-Exploration-Parallels-Mysticism/dp/1590308352). My personal experience has limited my interpretation of Tao Te Ching and other Taoist writings. Below are just some of my favourite quotes from Tao Te Ching. Some has fascinating connections with physics - for instance, with the parity violation measurement, which won the [Nobel Prize in physics](https://www.nobelprize.org/prizes/physics/1957/summary/) by [Tsung-Dao Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) and [Chen Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) in 1957. I continue to be astonished by these ancient wisdom every time I read these lines.
 
 1. 
 2. 
