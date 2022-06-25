@@ -96,5 +96,5 @@ experience:
     description: Computationally built a perforated conical frustum with CNT material for separating sodium and chloride ions.
 
 design:
-  columns: '3'
+  columns: '5'
 ---
