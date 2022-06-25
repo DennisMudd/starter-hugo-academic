@@ -11,7 +11,7 @@ role: PhD Student in Immunology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Medicine    University of Cambridge
+  - name: Department of Medicine  University of Cambridge
     url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
