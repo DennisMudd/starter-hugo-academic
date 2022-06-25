@@ -30,7 +30,7 @@ item:
     organization: The Jackson Laboratory
     organization_url: https://www.jax.org
     title: Summer Student Program (SSP) Fellowship
-    url: ''
+    url: 'https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/learn-earn-and-explore'
 
   - certificate_url: ''
     date_end: '2022-05-15'
