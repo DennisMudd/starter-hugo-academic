@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Lao Tzu and Taoism'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -62,11 +62,15 @@ categories:
 ## Some of my favourite quotes
         There are already a lot of comparisons between the eastern mysticism and modern sciences. Among them, the most famous is probably [Fritjof Capra](https://www.fritjofcapra.net/)'s [The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism](https://www.amazon.com/Tao-Physics-Exploration-Parallels-Mysticism/dp/1590308352). My personal experience has limited my interpretation of Tao Te Ching and other Taoist writings. Below are just some of my favourite quotes from Tao Te Ching. Some has fascinating connections with physics - for instance, with the parity violation measurement, which won the [Nobel Prize in physics](https://www.nobelprize.org/prizes/physics/1957/summary/) by [Tsung-Dao Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) and [Chen Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) in 1957. I continue to be astonished by these ancient wisdom every time I read these lines.
 
-1. 
-2. 
-3. 
+1. 道可道，非常道；名可名，非常名。
+2. 虚而不屈，动而逾出。
+3. 知其雄，守其雌，为天下蹊。
+4. 知人者智，自知者明。胜人者有力，自胜者强。知足者富，强行者有志，不失其所者久，死而不亡者寿。
+5. 反者道之动，弱者道之用。天下万物生于有，有生于无。
+6. 道生一，一生二，二生三，三生万物。万物负阴而抱阳，冲气以为和。
+7. 善为士者，不武；善战者，不怒；善胜敌者，不与；善用人者，为之下。是谓不争之德，是谓用人之力，是谓配天古之极。
 
-{{< figure src="https://raw.githubusercontent.com/DennisMudd/starter-hugo-academic/main/images/e149_3.png" title="Parity violation measurement - from APS" >}}
+{{< figure src="https://raw.githubusercontent.com/DennisMudd/starter-hugo-academic/main/images/e149_3.png" title="[Parity violation measurement](https://physics.aps.org/articles/v13/149)" >}}
 
 
 
