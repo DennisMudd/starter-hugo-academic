@@ -27,7 +27,7 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
-  max.width: 40%
+  max.width: 500px
 
 authors:
   - admin
