@@ -26,7 +26,7 @@ experience:
     company: Collins Lab, Wyss Institute for Biologically Inspired Engineering
     company_url: 'https://wyss.harvard.edu/'
     company_logo: wyss
-    location: Cambridge, MA
+    location: Boston, MA
     date_start: '2022-05-20'
     date_end: ''
     description: Engineer bacteria as a novel delivery vector.
