@@ -3,7 +3,7 @@ title: The profoundly fascinating Taoist philsophy.
 subtitle: My naïve exploration of Taoism - the intriguing ideology that has gradually influenced me in my life.
 
 # Summary for listings and search engines
-summary: The striking similarities in Taoist teachings and modern science.
+summary: My encounter with Taoism.
 
 # Link this post with a project
 projects: []
@@ -63,7 +63,7 @@ categories:
         There are already a lot of comparisons between the eastern mysticism and modern sciences. Among them, the most famous is probably [Fritjof Capra](https://www.fritjofcapra.net/)'s [The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism](https://www.amazon.com/Tao-Physics-Exploration-Parallels-Mysticism/dp/1590308352). My personal experience has limited my interpretation of Tao Te Ching and other Taoist writings. Below are just some of my favourite quotes from Tao Te Ching. Some has fascinating connections with physics - for instance, with the parity violation measurement, which won the [Nobel Prize in physics](https://www.nobelprize.org/prizes/physics/1957/summary/) by [Tsung-Dao Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) and [Chen Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) in 1957. I continue to be astonished by these ancient wisdom every time I read these lines.
 
 1. 道可道，非常道；名可名，非常名。
-2. 虚而不屈，动而逾出。Empty, yet it gives a supply that never fails; the more it worked,the more it brings forth. - Translated by [林语堂 Lin Yutang](https://en.wikipedia.org/wiki/Lin_Yutang) in 1948. Does this remind you of parity violation?
+2. 虚而不屈，动而逾出。Empty, yet it gives a supply that never fails; the more it worked, the more it brings forth. - Translated by [林语堂 Lin Yutang](https://en.wikipedia.org/wiki/Lin_Yutang) in 1948. Does this remind you of parity violation?
 3. 知其雄，守其雌，为天下蹊。
 4. 知人者智，自知者明。胜人者有力，自胜者强。知足者富，强行者有志，不失其所者久，死而不亡者寿。
 5. 反者道之动，弱者道之用。天下万物生于有，有生于无。
