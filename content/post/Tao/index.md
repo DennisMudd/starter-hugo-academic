@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Lao Tzu and Taoism'
   focal_point: ''
-  placement: 3
+  placement: 1
   preview_only: false
 
 authors:
