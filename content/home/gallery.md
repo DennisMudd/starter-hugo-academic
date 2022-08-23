@@ -9,6 +9,5 @@ weight: 60  # section position on page
 design:
   columns: '1'
 
-content:
-    {{ < gallery album="labfun" >}}
+{{ < gallery album="labfun" >}}
 ---
