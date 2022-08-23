@@ -9,6 +9,7 @@ weight: 60  # section position on page
 design:
   columns: '1'
 
-
-{{< gallery album="Lab Fun" >}}
+gallery_item:  
+- album: 'Lab Fun'
+  image: 'yinyang.jpg'
 ---
