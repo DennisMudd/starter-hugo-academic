@@ -1,3 +1,4 @@
+---
 widget: blank
 headless: true
 
@@ -7,3 +8,5 @@ subtitle:
 weight: 60  # section position on page
 design:
   columns: '1'
+
+---
