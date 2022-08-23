@@ -17,5 +17,8 @@ gallery_item:
   image: Tao-Chinese.jpg
   caption: Write your image 2 caption here
 
+content:
+  # Page type to display. E.g. project.
+  page_type: gallery
 ---
 
