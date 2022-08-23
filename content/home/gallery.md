@@ -10,5 +10,5 @@ design:
   columns: '1'
 
 content:
-    {{ < gallery album="Lab Fun" >}}
+    {{ < gallery album="labfun" >}}
 ---
