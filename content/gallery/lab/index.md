@@ -10,6 +10,4 @@ gallery_item:
   image: Tao-Chinese.jpg
   caption: Write your image 2 caption here
 
-
-
 ---

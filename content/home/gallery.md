@@ -18,7 +18,10 @@ gallery_item:
   caption: Write your image 2 caption here
 
 content:
-  # Page type to display. E.g. project.
-  page_type: gallery
+
+  # Filter on criteria
+  filters:
+    folders:
+      - gallery
 ---
 
